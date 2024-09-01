@@ -4,7 +4,7 @@
 
 ### 🚀 Quick Overview
 
-- 💻 I specialize in WEBDEV.
+- 💻 I specializing in WEB3 devlopment .
 - 🌐 Currently diving deep into BlockChain,WEB3.
 - 🎓 Pursuing  Graduation with a degree in Computer Science.
 - 🌟 Constantly seeking opportunities to learn and grow.
